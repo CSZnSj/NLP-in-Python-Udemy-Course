@@ -1,2 +1,2 @@
 # NLP-in-Python-Udemy-Course
-This repository contains my implementation of tasks for the Udemy course “Data Science: Natural Language Processing (NLP) in Python” by Lazy Programmer Inc. The course teaches practical NLP techniques using Python 
+This repository contains my implementation of projects from the Udemy course “Data Science: Natural Language Processing (NLP) in Python” by Lazy Programmer Inc. The course provides a comprehensive introduction to NLP techniques using Python, covering topics such as “Decrypting Ciphers”, “Building a Spam Detector”, “Building a Sentiment Analyzer”, “NLTK Exploration”, “Latent Semantic Analysis”, and “Writing an Article Spinner”.
